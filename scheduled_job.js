@@ -1,7 +1,7 @@
 var exec = require('child_process').exec,
     child;
 
-child = exec('timeout 30 moniteur record',
+child = exec('moniteur record', {timeout: 3000},
   function (error, stdout, stderr) {
     console.log('stdout: ' + stdout);
     console.log('stderr: ' + stderr);
