@@ -1,0 +1,1 @@
+worker: node scheduled_job.js
