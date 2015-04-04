@@ -9,6 +9,8 @@
   "author": "Koji Ishimoto",
   "license": "MIT",
   "dependencies": {
-    "moniteur": "^0.7.8"
+    "gaer": "^0.9.2",
+    "moniteur": "^0.7.8",
+    "stylestats": "^5.0.1"
   }
 }
