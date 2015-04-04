@@ -1,6 +1,7 @@
 {
  "assets": {
     "Wisteria.css": "http://t32k.me/wisteria/css/wisteria.css",
+    "Maple.css": "https://raw.githubusercontent.com/t32k/maple/master/public/files/css/maple.css",
     "Source": "https://ajax.googleapis.com/ajax/libs/angularjs/1.3.11/angular.min.js"
   }
 }
