@@ -1,16 +1,12 @@
 {
   "name": "moniteur",
-  "version": "1.1.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": ""
-  },
+  "version": "1.2.0",
+  "main": "scheduled_job.js",
   "author": "Koji Ishimoto",
   "license": "MIT",
   "dependencies": {
     "gaer": "^0.10.2",
     "moniteur": "^0.7.8",
-    "stylestats": "^5.1.0"
+    "stylestats": "5.1.0"
   }
 }
